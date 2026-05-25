@@ -131,7 +131,7 @@ If you find this repository useful, please cite our work:
 ```bibtex
 @inproceedings{chan2026hyperpatch,
     title = {HyperPatch: Sequential Knowledge Editing Under {n}-ary Structural Drift},
-    author = {Chan, Yu-Kai and Lien, Wen-Sheng and Yao, Dong-Ting and Ruan, Bo-Kai and Lin, Kwan-Yeung and Shuai, Hong-Han and Chiang, Meng-Fen},
+    author = {Chan, Yukai and Lien, Wensheng and Yao, Dongting and Ruan, Bokai and Lin, Kwanyeung and Shuai, Honghan and Chiang, Mengfen},
     booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
     year = {2026}
 }
