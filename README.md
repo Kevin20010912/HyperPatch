@@ -4,6 +4,7 @@ Official resources of **"HyperPatch: Sequential Knowledge Editing Under 𝑛-ary
 
 > Accepted at **ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026** 
 
+[![DOI](https://zenodo.org/badge/1248268225.svg)](https://doi.org/10.5281/zenodo.20372801)
 [![Python 3.11.15](https://img.shields.io/badge/python-3.11.15-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
