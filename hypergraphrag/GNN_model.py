@@ -97,6 +97,7 @@ class GATConv_lora(GATConv):
             self.lin_src_b = Linear(self.r, heads * out_channels, bias=False, weight_initializer="glorot")
             self.lin_src = nn.Sequential(self.lin_src_a, self.lin_src_b)
             self.lin_dst = self.lin_src
+            self.lin = None
         else:
             self.lin_src_a = Linear(in_channels[0], self.r, bias=False, weight_initializer="glorot")
             self.lin_src_b = Linear(self.r, heads * out_channels, bias=False, weight_initializer="glorot")
